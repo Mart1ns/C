@@ -24,7 +24,7 @@ int main() {
     printf("  |   <| | | | | |/ / \n");
     system("color 4");
     Sleep(750);
-    printf("  |_||_|_| |_| |_/___|\n");
+    printf("  |_||_|_| |_| |_/___| \n");
     Sleep(2000);
     printf("\n");
 
